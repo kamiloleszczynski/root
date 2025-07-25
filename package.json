@@ -1,0 +1,12 @@
+{
+  "name": "gpo-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "pg": "^8.10.0",
+    "fs": "^0.0.1-security"
+  }
+}
